@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "418618279361",
+    "firebase_url": "https://skateterrain.firebaseio.com",
+    "project_id": "skateterrain",
+    "storage_bucket": "skateterrain.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418618279361:android:fa1db89f2831c6a2",
+        "android_client_info": {
+          "package_name": "com.example.skateterrain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418618279361-obml4ge49u8u1k6g2esisklk2m37hl85.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.skateterrain",
+            "certificate_hash": "532823501f827c23a6ba71826554294b3d639365"
+          }
+        },
+        {
+          "client_id": "418618279361-88fuh7uf8vq2k4br1t6pmsvd6ucrqdst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5iQhuE5HOi0SxhGIP1bE-quor5AB7MPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418618279361-88fuh7uf8vq2k4br1t6pmsvd6ucrqdst.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

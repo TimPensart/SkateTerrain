@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SkateTerrain</string>
+    <string name="title_activity_favoriteSpotList">Favorite Spots</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="spinner_prompt">Choose a type of spot...</string>
+
+    <string-array name="spots_array">
+        <item>park</item>
+        <item>ledge</item>
+        <item>rail</item>
+        <item>stair</item>
+        <item>variety</item>
+    </string-array>
+
+</resources>
