@@ -1,0 +1,12 @@
+<resources>
+    <!--
+    Copy this file to:
+        app/src/debug/res/values/google_maps_api.xml
+        app/src/release/res/values/google_maps_api.xml
+    and replace the placeholder below with your own Google Maps Android API key.
+
+    Both destinations are listed in .gitignore - keep it that way.
+    See: https://developers.google.com/maps/documentation/android-sdk/get-api-key
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">YOUR_GOOGLE_MAPS_API_KEY</string>
+</resources>

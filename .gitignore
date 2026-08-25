@@ -1,15 +1,46 @@
-*.iml
+# --- Secrets / credentials (never commit these) ---
+google-services.json
+GoogleService-Info.plist
+**/res/values/google_maps_api.xml
+local.properties
+secrets.properties
+keystore.properties
+key.properties
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.pem
+*.key
+
+# --- Build output / artifacts ---
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+/build
+build/
+/app/release/
+/app/debug/
+/captures
+.externalNativeBuild
+.cxx
+
+# --- Gradle ---
 .gradle
-/local.properties
+*.iml
+
+# --- IDE ---
 /.idea/caches
 /.idea/libraries
 /.idea/modules.xml
 /.idea/workspace.xml
 /.idea/navEditor.xml
 /.idea/assetWizardSettings.xml
+/.idea/deploymentTargetDropDown.xml
+/.idea/misc.xml.bak
+
+# --- OS ---
 .DS_Store
-/build
-/captures
-.externalNativeBuild
-/app/src/main/res/values/google_maps_api.xml
-/app/src/release/res/values/google_maps_api.xml
+Thumbs.db
